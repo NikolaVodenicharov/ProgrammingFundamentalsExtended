@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysContainsElement", "ArraysContainsElement\ArraysContainsElement.csproj", "{60841939-7436-4330-9722-62A2B47A4B80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteMe", "DeleteMe\DeleteMe.csproj", "{A0102EDF-C5A5-4145-86AB-C6CD47DF7E08}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageCharacterDelimeter", "AverageCharacterDelimeter\AverageCharacterDelimeter.csproj", "{5A24AEDE-901A-4BC8-8F94-002CE5D86658}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArrayOfStrings", "SortArrayOfStrings\SortArrayOfStrings.csproj", "{D7575574-E9A4-4FBB-BA85-01B3C49EAF37}"
@@ -41,10 +39,6 @@ Global
 		{60841939-7436-4330-9722-62A2B47A4B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60841939-7436-4330-9722-62A2B47A4B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60841939-7436-4330-9722-62A2B47A4B80}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A0102EDF-C5A5-4145-86AB-C6CD47DF7E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A0102EDF-C5A5-4145-86AB-C6CD47DF7E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A0102EDF-C5A5-4145-86AB-C6CD47DF7E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A0102EDF-C5A5-4145-86AB-C6CD47DF7E08}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5A24AEDE-901A-4BC8-8F94-002CE5D86658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5A24AEDE-901A-4BC8-8F94-002CE5D86658}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A24AEDE-901A-4BC8-8F94-002CE5D86658}.Release|Any CPU.ActiveCfg = Release|Any CPU
